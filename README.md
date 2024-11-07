@@ -1,59 +1,60 @@
 # PythonbatchNovDec2024
 
-A repository with all the classes material for becoming a python developer 
+A Repository with all the classes material for becoming a python developer
+
+## git commands
+
+To clone a repository (not needed in codespace, needed in local development):
+
+   git clone https https://github.com/ShirishaAI/PythonbatchNovDec2024.git
 
 
-## Git commands 
+To list the local branches: 
 
-To clone a repository (not needed in codespace, needed for local development):
-
-    git clone https https://github.com/ShirishaAI/PythonbatchNovDec2024.git
-
-To list the local branches:
-
-   git branch
+    git branch
 
 To create a branch:
 
-    git checkout -b class01
+   git checkout -b class01
 
-To see the latest local changes:
+To see latest local changes: 
 
-    git status
+   git status
 
-To check/verify the modified content in existing file,
+To check/verify te modified content in existing file,
 
-    git diff 
+   git diff
 
 To stage the changes:
-   
-    git add <filename>
+
+   git add <filename>
 
 To commit the changes:
+ 
+   git commit -m "commit message"
 
-    git commit -m "commit message"
+To push te changes:
 
-To push the changes,
-    
-    git push origin <sourceBranch>
-       
-       class01 -> main
-       ex:git push origin class01
+   git push origin <Sourcebranch>
 
-### Dialy
+      class01 -> main 
+      ex: git push origin class01
+
+
+### Daily
 
 To check the branch is clean,
-      
-    git status
 
-To checkout to the main branch
- 
-    git checkout main
+   git status
 
-To get the latest changes
+To check out the main branch 
 
-    git pull origin main
+   git checkout main
+
+To get the latest changes 
+
+   git pull origin main 
 
 To create new branch 
 
-    git checkout -b <NEW BRANCH NAME>
+   git checkout -b <NEW BRANCH NAME>
