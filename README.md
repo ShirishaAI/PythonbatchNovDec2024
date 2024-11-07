@@ -39,6 +39,8 @@ To push the changes,
            class01 -> main
            ex:git push origin class01
 
+
+
 ### Dialy
 
 To check the branch is clean,
@@ -56,5 +58,3 @@ To get the latest changes
 To create new branch 
 
     git checkout -b <NEW BRANCH NAME>
- 
-
