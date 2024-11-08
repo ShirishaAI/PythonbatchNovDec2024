@@ -66,11 +66,11 @@ To create new branch
 
 [class00 04th Nov 2024 ](https://drive.google.com/file/d/1qqzGhhyKNPfhcS9FO2Zwb_WIqBSsEKao/view?usp=drive_link)
 
-   00. Dev Setup
-
+    
+    00.Dev Setup
        Installing IDE/Editor
        Installing Python and local Setup
-       Github access, creating project
+       github access, creating project
 
 [class01 06th Nov 2024 ](https://drive.google.com/file/d/1_S8TQah9n0Od9m5FtR-V0zQ2XOaHQ2wg/view?usp=drive_link)
 
@@ -81,3 +81,5 @@ To create new branch
     01.Introduction
        Importance of Python
        Two versions of Python (2.x & 3.x)
+
+## Next class
