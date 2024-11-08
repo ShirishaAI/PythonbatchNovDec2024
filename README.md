@@ -11,7 +11,8 @@ To clone a repository (not needed in codespace, needed for local development):
 
 To list the local branches:
 
-   git branch
+
+    git branch
 
 To create a Branch:
 
@@ -66,6 +67,7 @@ To create new branch
 [class00 04th Nov 2024 ](https://drive.google.com/file/d/1qqzGhhyKNPfhcS9FO2Zwb_WIqBSsEKao/view?usp=drive_link)
 
    00. Dev Setup
+
        Installing IDE/Editor
        Installing Python and local Setup
        Github access, creating project
