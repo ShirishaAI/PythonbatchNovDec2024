@@ -83,3 +83,9 @@ To create new branch
        Two versions of Python (2.x & 3.x)
 
 ## Next class
+
+
+     built-in functions
+     comment operator
+     key words and identifiers
+     line continuation and statement seperator operators
