@@ -1,0 +1,30 @@
+Built-in Functions (71) - Python 3.13.0
+============================
+abs()             delattr()        hex()            oct()            sum()
+aiter()           dict()           id()             open()           super()
+all()             dir()            input()          ord()            tuple()
+anext()           divmod()         int()            pow()            type()
+any()             enumerate()      isinstance()     print()          vars()
+ascii()           eval()           issubclass()     property()       zip()
+bin()             exec()           iter()           range()          __import__()
+bool()            filter()         len()            repr()
+breakpoint()      float()          list()           reversed()
+bytearray()       format()         locals()         round()
+bytes()           frozenset()      map()            set()
+callable()        getattr()        max()            setattr()
+chr()             globals()        memoryview()     slice()
+classmethod()     hasattr()        min()            sorted()
+compile()         hash()           next()           staticmethod()
+complex()         help()           object()         str()
+
+
+Built-in Functions (64) - Python 2
+============================
+abs()            divmod            input()           open()
+all()            enumerate         int()             ord()
+any()            eval()            isinstance()      pow() 
+basestring()     execfile()        issubclass()      print()
+bin()            file()            iter()            property()
+bool()           filter()          len()             range()
+bytearray()      float()           list()            raw_input()
+callable()       format()          locals()          reduce()

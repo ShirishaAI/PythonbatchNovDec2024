@@ -82,10 +82,49 @@ To create new branch
        Importance of Python
        Two versions of Python (2.x & 3.x)
 
-## Next class
 
-
+[class02 11th Nov 2024 ](zoomrecording link)
+    
+    PEP 8 Guidlines (https://peps.python.org/pep-0008/)
+     Shebang line
+     Indentation Isuue and best practices
      built-in functions
+     print function
+     Script mode vs interactive mode 
+     Jupyter notebook usage
+     Ascii and Unicode characters
+
+
+[class03 13th Nov 2024 ](zoomrecording link)
+
      comment operator
      key words and identifiers
      line continuation and statement seperator operators
+
+02. Basics
+      Arithmetic operations
+         +,-, , /, //, %, =
+         divmod() function
+         compound operations
+
+    Assignments:
+       1. try to do the sum of digits in a integer  number using divmod()
+       2. if a clock has revolved for 32 times, is half way, how many days completed
+
+
+## Next class
+
+         Practical Problem solving 
+         working with complex numbers
+         abs() function
+         Operator precedence in Arithmetic operations
+
+
+   String opertaions
+      usage of single, double and triple quotes
+      len() function
+      indexing and slicing strings
+      string attributes 
+      string formatting: old & new style, f-strings
+      bytearray() and byte() strings
+      unicode strings
