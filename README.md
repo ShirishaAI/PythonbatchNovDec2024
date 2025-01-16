@@ -330,3 +330,34 @@ Troubleshooting experince
 csv
 dat
 tsv
+
+
+
+[Class28 Jan 06th 2025]()
+
+11.Logging
+    Simple logging
+    configuring log file
+    formatting logs and adding timestamp
+    working with file handler and stream hanlder
+    configuring multiple handlers
+    color logging
+    Rotating logger
+
+
+
+[Class29 Jan 08th 2025]()
+
+13. Regular Expressions
+    re module
+    compiling regex objects
+    match & search
+    find & finditer
+    regex Flags
+    Greedy & Non-Greedy patterns
+    findall & finditer
+    sub and subn
+    regex Flags
+    groups and groupdicts
+    Pearl-style regexes
+    Realworld Problem (log analyses, email Validation, etc)
