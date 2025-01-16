@@ -287,3 +287,46 @@ Assignments
 [Class23 Dec 24th 2024]()
 
  os, shutil, pathlib
+
+
+[Class24 Dec 26th 2024]()
+
+shutil, subprocess, getpass
+time related
+    - time, datetime, pytz, timeit, calendar
+others
+    - random, collections, atexit, contextlib, base64
+
+
+
+[Class25 Dec 27th 2024]()
+
+create user-defined module
+creating user-defined package
+
+packaging
+creating the wheel files, tar files
+publishing with twine
+egg files
+
+11.File Operations
+flat files
+
+
+[Class26 Dec 30th 2024]()
+
+Non-flat files
+pickle 
+shelve 
+xml 
+csv
+
+
+[Class27 Jan 02nd 2025]()
+
+windows local setup
+poetry installation
+Troubleshooting experince
+csv
+dat
+tsv
