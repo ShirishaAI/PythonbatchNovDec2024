@@ -361,3 +361,15 @@ tsv
     groups and groupdicts
     Pearl-style regexes
     Realworld Problem (log analyses, email Validation, etc)
+
+
+[Class30 Jan 10th 2025]()
+
+14. OOP
+    Importance of OOP
+    Instantiation and managing attributes
+    constructor and Importance of self
+    instance and class variables
+    Encapsulation
+
+    
